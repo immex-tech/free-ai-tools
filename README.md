@@ -1,5 +1,3 @@
-
-```markdown
 # Welcome to Our Repository
 
 Thank you for visiting our GitHub repository! Here, we'd like to introduce you to two amazing products that we're proud to offer: decor8.ai and DreamzAR app. Feel free to explore their features and learn how they can elevate your experience.
@@ -114,7 +112,3 @@ If you have any questions, feedback, or suggestions, feel free to reach out to o
 - Visit our [website](http://immex.tech) for more contact information.
 
 We hope you enjoy using DreamzAR App as much as we enjoyed creating it!
-
----
-
-```
