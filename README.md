@@ -117,7 +117,4 @@ We hope you enjoy using DreamzAR App as much as we enjoyed creating it!
 
 ---
 
-*Disclaimer: The URLs provided in this README are for illustrative purposes to showcase the idea of including external links. Please replace them with the actual URLs of the products.*
 ```
-
-As before, replace the placeholder image URLs and URLs of DreamzAR app with the actual URLs when you're setting up your repository on GitHub.
